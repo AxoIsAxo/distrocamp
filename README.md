@@ -3,7 +3,10 @@
 Welcome to Distrocamp! The go-to repo for choosing your OS.
 
 ## Contents
-- [For Beginners!](#beginner)
+- [For Beginners!](#Beginner)
+- [Debian](#Debian)
+- [Arch](#Arch)
+- [Fedora](#Fedora)
 
 <a href="google.com">Debian Based</a>
 
@@ -13,4 +16,10 @@ Welcome to Distrocamp! The go-to repo for choosing your OS.
 
 <a href="google.com">Independent</a>
 
-## beginner
+## Beginner
+
+## Debian
+
+## Arch
+
+## Fedora
