@@ -29,7 +29,7 @@ You might know that name from proton-GE - its a fork of valve's software to make
 But there is a downside - it is quite heavy. You should at least have 8GB of memory.
 
 <img width="1279" height="799" alt="grafik" src="https://github.com/user-attachments/assets/06c69ae7-4c12-4568-b372-eb79800dfad5" />
-[https://zorin.com/os/](https://nobaraproject.org/)
+https://nobaraproject.org/
 
 ## Debian
 
