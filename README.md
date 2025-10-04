@@ -17,7 +17,7 @@ ZorinOS is a really great distro for beginners, and I may even go as far as to s
 
 Why? For one, it uses one of the best maintained desktops out there - GNOME - while not sacrificing on looks. Its GUI is easy to understand, especially if you come from Windows.
 
-<img width="1920" height="1080" alt="grafik" src="https://github.com/user-attachments/assets/8d119c69-8d43-4533-9c17-ff5381a2decd" />
+<img width="1272" height="720" alt="grafik" src="https://github.com/user-attachments/assets/67f584c4-1c57-4d20-8185-0cde5ce1c2f5" />
 https://zorin.com/os/
 
 ## Debian
