@@ -23,7 +23,7 @@ Secondly, it is debian based, which is (known to be) the most stable distro out 
 https://zorin.com/os/
 
 ### Nobara
-If you are a gamer, this distro might be perfect for you. Nobara comes with a lot of gaming utilities pre-installed, and is maintained my the one and only "Glorious Eggroll" - short GE.
+If you are a gamer, this distro might be perfect for you. Nobara comes with a lot of gaming utilities pre-installed, and is maintained by the one and only Glorious Eggroll - short GE.
 You might know that name from proton-GE - its a fork of valve's software to make W*ndows games available for Linux.
 
 But there is a downside - it is quite heavy. You should at least have 8GB of memory.
