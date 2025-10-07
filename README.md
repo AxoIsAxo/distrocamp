@@ -49,7 +49,7 @@ https://cachyos.org/
 ## Independent
 These are Distros that are not based of another Distro but also not often used as a base for them.
 
-## Planned Distros
+## Planned
 We want to add Documentation about following Distros in the future:
 A whole fun catagory with TempleOS, PonyOS and more.
 NixOS
