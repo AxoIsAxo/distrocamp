@@ -7,6 +7,8 @@ Welcome to Distrocamp! The go-to repo for choosing your OS.
 - [Debian](#Debian)
 - [Arch](#Arch)
 - [Fedora](#Fedora)
+- [Independent](#Independent)
+- [Planned](#Planned_Distros)
 
 ## Beginner
 We recommend one of these distros if you are new to Linux.
@@ -43,3 +45,22 @@ https://cachyos.org/
 ## Arch
 
 ## Fedora
+
+## Independent
+These are Distros that are not based of another Distro but also not often used as a base for them.
+
+## Planned Distros
+We want to add Documentation about following Distros in the future:
+A whole fun catagory with TempleOS, PonyOS and more.
+NixOS
+Void Linux
+Gentoo
+KDE Neon
+Clear Linux
+AnduinOS
+Fedora
+Debian
+Ubuntu
+Arch
+EndeavourOS
+LFS (Welll. yeah)
