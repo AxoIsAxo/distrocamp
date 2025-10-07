@@ -45,7 +45,7 @@ https://cachyos.org/
 ## Arch
 
 ## Fedora
-- [Nobara](###Nobara)
+- [Nobara](#Nobara)
 
 
 ## Independent
