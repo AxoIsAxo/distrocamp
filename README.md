@@ -1,5 +1,3 @@
-
-
 # Distrocamp
 
 Welcome to Distrocamp! The go-to repo for choosing your OS.
@@ -30,6 +28,15 @@ But there is a downside - it is quite heavy. You should at least have 8GB of mem
 
 <img width="1279" height="799" alt="grafik" src="https://github.com/user-attachments/assets/06c69ae7-4c12-4568-b372-eb79800dfad5" />
 https://nobaraproject.org/
+
+### CachyOS
+If you need a lighter Distro, or want even better Gaming features, this distro might be the absolute best for you.
+It is easy to set up and use, but is based on arch, that means you can get into deeper stuff like Customization, and you can install basically every existing software with yay or pacu.
+
+So if you are ready to dive a bit deeper into Linux, this may be the Distro-Entry for you.
+
+<img width="860" height="484" alt="image" src="https://github.com/user-attachments/assets/943d79cc-9ee9-4809-ab00-5800b3df7ca7" />
+https://cachyos.org/
 
 ## Debian
 
