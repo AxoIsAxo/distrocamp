@@ -12,7 +12,7 @@ Welcome to Distrocamp! The go-to repo for choosing your OS.
 
 ## Beginner
 We recommend one of these distros if you are new to Linux.
-### Zorin OS
+### ZorinOS
 ZorinOS is a really great distro for beginners, and I may even go as far as to say it is the best.
 
 Why? For one, it uses one of the best maintained desktops out there - GNOME - while not sacrificing on looks. Its GUI is easy to understand, especially if you come from Windows.
@@ -41,12 +41,18 @@ So if you are ready to dive a bit deeper into Linux, this may be the Distro-Entr
 https://cachyos.org/
 
 ## Debian
-
+- [ZorinOS](#ZorinOS)
 ## Arch
+- [CachyOS](#CachyOS)
 
 ## Fedora
 - [Nobara](#Nobara)
 
+### Fedora Linux
+Maybe you tried Nobara and thought it was to Heavy, or too opinionated. Either way, you can also just use its base: Fedora Linux.
+
+<img width="860" height="538" alt="image" src="https://github.com/user-attachments/assets/1c181d82-707e-42d9-892f-53b02c23cfb1" />
+https://cachyos.org/
 
 ## Independent
 These are Distros that are not based of another Distro but also not often used as a base for them.
