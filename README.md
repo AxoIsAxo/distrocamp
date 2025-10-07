@@ -17,7 +17,7 @@ Why? For one, it uses one of the best maintained desktops out there - GNOME - wh
 
 Secondly, it is debian based, which is (known to be) the most stable distro out there.
 
-<img width="1272" height="720" alt="grafik" src="https://github.com/user-attachments/assets/67f584c4-1c57-4d20-8185-0cde5ce1c2f5" />
+<img width="1272" height="799" alt="grafik" src="https://github.com/user-attachments/assets/67f584c4-1c57-4d20-8185-0cde5ce1c2f5" />
 https://zorin.com/os/
 
 ### Nobara
@@ -35,7 +35,7 @@ It is easy to set up and use, but is based on arch, that means you can get into 
 
 So if you are ready to dive a bit deeper into Linux, this may be the Distro-Entry for you.
 
-<img width="860" height="484" alt="image" src="https://github.com/user-attachments/assets/943d79cc-9ee9-4809-ab00-5800b3df7ca7" />
+<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/943d79cc-9ee9-4809-ab00-5800b3df7ca7" />
 https://cachyos.org/
 
 ## Debian
