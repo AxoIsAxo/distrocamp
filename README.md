@@ -8,7 +8,7 @@ Welcome to Distrocamp! The go-to repo for choosing your OS.
 - [Arch](#Arch)
 - [Fedora](#Fedora)
 - [Independent](#Independent)
-- [Planned](#Planned_Distros)
+- [Planned](#Planned)
 
 ## Beginner
 We recommend one of these distros if you are new to Linux.
