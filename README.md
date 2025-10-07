@@ -45,6 +45,8 @@ https://cachyos.org/
 ## Arch
 
 ## Fedora
+- [Nobara](###Nobara)
+
 
 ## Independent
 These are Distros that are not based of another Distro but also not often used as a base for them.
