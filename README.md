@@ -60,28 +60,28 @@ These are Distros that are not based of another Distro but also not often used a
 ## Planned
 We want to add Documentation about following Distros in the future:
 
-A whole fun catagory with TempleOS, PonyOS and more.
+- A whole fun catagory with TempleOS, PonyOS and more.
 
-NixOS
+- NixOS
 
-Void Linux
+- Void Linux
 
-Gentoo
+- Gentoo
 
-KDE Neon
+- KDE Neon
 
-Clear Linux
+- Clear Linux
 
-AnduinOS
+- AnduinOS
 
-Fedora
+- Fedora
 
-Debian
+- Debian
 
-Ubuntu
+- Ubuntu
 
-Arch
+- Arch
 
-EndeavourOS
+- EndeavourOS
 
-LFS (Welll. yeah)
+- LFS (Welll. yeah)
