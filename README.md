@@ -55,6 +55,8 @@ Maybe you tried Nobara and thought it was to Heavy, or too opinionated. Either w
 https://www.fedoraproject.org/
 
 ### Ubuntu
+Ubuntu is probably the second most known Distro, after Arch Linux. And its actually what I am using right now, after knowing much more advanced Distros. I love how easy it is; you install it and you use it. But please, please use 25.10 and not the 24.XX LTS version. A lot of people say you should use the latter, but a lot of software is not instantly available on Ubuntu 24.XX.
+
 <img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/c12a70c6-9b70-459b-9ce3-a4e9c5d0c91d" />
 https://ubuntu.com/
 
