@@ -51,7 +51,7 @@ https://cachyos.org/
 ### Fedora Linux
 Maybe you tried Nobara and thought it was to Heavy, or too opinionated. Either way, you can also just use its base: Fedora Linux.
 
-<img width="860" height="538" alt="image" src="https://github.com/user-attachments/assets/1c181d82-707e-42d9-892f-53b02c23cfb1" />
+<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/1c181d82-707e-42d9-892f-53b02c23cfb1" />
 https://www.fedoraproject.org/
 
 ### Ubuntu
