@@ -52,7 +52,11 @@ https://cachyos.org/
 Maybe you tried Nobara and thought it was to Heavy, or too opinionated. Either way, you can also just use its base: Fedora Linux.
 
 <img width="860" height="538" alt="image" src="https://github.com/user-attachments/assets/1c181d82-707e-42d9-892f-53b02c23cfb1" />
-https://cachyos.org/
+https://www.fedoraproject.org/
+
+### Ubuntu
+<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/c12a70c6-9b70-459b-9ce3-a4e9c5d0c91d" />
+https://ubuntu.com/
 
 ## Independent
 These are Distros that are not based of another Distro but also not often used as a base for them.
